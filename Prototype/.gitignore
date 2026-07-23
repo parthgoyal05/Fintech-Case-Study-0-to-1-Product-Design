@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Node modules anywhere
+**/node_modules/
+
+# Build folders
+**/dist/
+**/build/
+**/.next/
+**/coverage/
+
+# Capacitor / Xcode
+**/DerivedData/
+**/Pods/
+**/.gradle/
+
+# Temporary files
+*.swp
+*.tmp
