@@ -1,0 +1,10 @@
+{
+  "description": "BudgetBee is a student-focused fintech app that simplifies expense tracking, savings goals, group splitting, and investing, empowering users to manage their finances effortlessly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
